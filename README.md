@@ -3,7 +3,7 @@
 </p>
 
 - 👋 Hi, I’m Felipe
-- 👀 I’m interested in .NET | Angular | Node.js | HTML | CSS | JavaScript | TypeScript | Docker | Kubernetes | English
+- 👀 I’m interested in C# |.NET | Angular | Node.js | HTML | CSS | JavaScript | TypeScript | Docker | Kubernetes | English
 - 🌱 I’m currently learning Unit, Integrated and Automated Tests
 - 📫 How to reach me:
 <p>
@@ -19,6 +19,8 @@
 <code><img alt="Angular" title="Angular" height="50" src="https://user-images.githubusercontent.com/13723025/198139927-5c0488df-44fb-4f2a-b77b-9167f621b045.png" style="max-width: 100%;"></code>
 <code><img alt="Typescript" title="Typescript" height="48" src="https://user-images.githubusercontent.com/13723025/198140069-82b7fd5d-a04a-45ba-b42c-02bd32282460.png" style="max-width: 100%;"></code>
 <code><img alt="Javascript" title="Javascript" height="48" src="https://user-images.githubusercontent.com/13723025/198140112-f9b34325-4c57-43db-b8c5-fcbb69fc269f.png" style="max-width: 100%;"></code>
+<code><img alt="HTML" title="HTML" height="48" src="https://user-images.githubusercontent.com/13723025/198142914-1160ac0d-4cab-4174-ad2c-70902efd2e69.png" style="max-width: 100%;"></code>
+<code><img alt="CSS" title="CSS" height="48" src="https://user-images.githubusercontent.com/13723025/198142985-d801e081-deab-4fd4-aa49-73c585623ac3.png" style="max-width: 100%;"></code>
 </p>
 
 - Some tools that I like:
