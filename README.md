@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Unit, Integrated and Automated Tests
 - 📫 How to reach me:
 <p>
-<a href="https://www.linkedin.com/in/felipe-a-mendes" target="_blank"><img src="https://camo.githubusercontent.com/86a061108ba508ee3b237d0db831d7ef74c1b0c47235be2c39bddd743b3d5eac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f7269636172646f616c7665737061756c612f" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felipe-a-mendes" target="_blank"><img src="https://camo.githubusercontent.com/86a061108ba508ee3b237d0db831d7ef74c1b0c47235be2c39bddd743b3d5eac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f7269636172646f616c7665737061756c612f" alt="" height="30" width="80" /></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAMendes&layout=compact)](https://github.com/FelipeAMendes/github-readme-stats)
@@ -23,7 +23,7 @@
 
 - Some tools that I like:
 <p dir="auto">
-<code><img alt="Visual Studio" title="VS" height="48" src="https://user-images.githubusercontent.com/13723025/198140622-20e4e1a8-980b-4ee9-80df-06ce6f604091.png" style="max-width: 100%;"></code>
+<code><img alt="Visual Studio" title="VS" height="48" src="https://user-images.githubusercontent.com/13723025/198142112-6635ec12-73ae-4ae3-8cef-498b49e64e04.png" style="max-width: 100%;"></code>
 <code><img alt="Visual Studio Code" title="VS Code" height="50" src="https://user-images.githubusercontent.com/13723025/198140669-57adcb56-3d34-4b46-af2d-4385f5ad7acb.png" style="max-width: 100%;"></code>
 <code><img alt="GitHub" title="GitHub" height="50" src="https://user-images.githubusercontent.com/13723025/198140705-3e9206f2-b333-47b9-af34-6b34aa5563c9.png" style="max-width: 100%;"></code>
 <code><img alt="Docker" title="Docker" height="48" src="https://user-images.githubusercontent.com/13723025/198140763-d945b29d-7d5e-47ae-a13e-8e40689b968e.png" style="max-width: 100%;"></code>
