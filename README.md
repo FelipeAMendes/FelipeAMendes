@@ -7,29 +7,32 @@
 - 🌱 I’m currently learning Unit, Integrated and Automated Tests
 - 📫 How to reach me:
 <p>
-<a href="https://www.linkedin.com/in/felipe-a-mendes" target="_blank"><img src="https://camo.githubusercontent.com/86a061108ba508ee3b237d0db831d7ef74c1b0c47235be2c39bddd743b3d5eac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f7269636172646f616c7665737061756c612f" alt="" height="30" width="80" /></a>
+<a href="https://www.linkedin.com/in/felipe-a-mendes" target="_blank"><img src="![linkedin](https://github.com/user-attachments/assets/aa393dce-4b9a-4446-8154-9e9d9d0fbe17)" alt="" height="30" width="80" /></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAMendes&layout=compact)](https://github.com/FelipeAMendes/github-readme-stats)
 
 - Some programming languages that I like:
 <p dir="auto">
-<code><img alt="CSharp" title="CSharp" height="48" src="https://user-images.githubusercontent.com/57419630/122697755-61ffbf80-d21c-11eb-901a-a3c4220f3ecf.png" style="max-width: 100%;"></code>
-<code><img alt="Node Js" title="Node Js" height="50" src="https://user-images.githubusercontent.com/13723025/198139601-46010336-6753-4ba4-99fd-b197696f2f05.png" style="max-width: 100%;"></code>
-<code><img alt="Angular" title="Angular" height="50" src="https://user-images.githubusercontent.com/13723025/198139927-5c0488df-44fb-4f2a-b77b-9167f621b045.png" style="max-width: 100%;"></code>
-<code><img alt="Typescript" title="Typescript" height="48" src="https://user-images.githubusercontent.com/13723025/198140069-82b7fd5d-a04a-45ba-b42c-02bd32282460.png" style="max-width: 100%;"></code>
-<code><img alt="Javascript" title="Javascript" height="48" src="https://user-images.githubusercontent.com/13723025/198140112-f9b34325-4c57-43db-b8c5-fcbb69fc269f.png" style="max-width: 100%;"></code>
-<code><img alt="HTML" title="HTML" height="48" src="https://user-images.githubusercontent.com/13723025/198142914-1160ac0d-4cab-4174-ad2c-70902efd2e69.png" style="max-width: 100%;"></code>
-<code><img alt="CSS" title="CSS" height="48" src="https://user-images.githubusercontent.com/13723025/198142985-d801e081-deab-4fd4-aa49-73c585623ac3.png" style="max-width: 100%;"></code>
+<code><img alt="CSharp" title="CSharp" height="48" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" style="max-width: 100%;"></code>
+<code><img alt="Node Js" title="Node Js" height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" style="max-width: 100%;"></code>
+<code><img alt="Angular" title="Angular" height="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" style="max-width: 100%;"></code>
+<code><img alt="Typescript" title="Typescript" height="48" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" style="max-width: 100%;"></code>
+<code><img alt="Javascript" title="Javascript" height="48" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" style="max-width: 100%;"></code>
+<code><img alt="HTML" title="HTML" height="48" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="max-width: 100%;"></code>
+<code><img alt="Go" title="Go" height="48" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" style="max-width: 100%;"></code>
 </p>
 
 - Some tools that I like:
 <p dir="auto">
 <code><img alt="Visual Studio" title="VS" height="48" src="https://user-images.githubusercontent.com/13723025/198142112-6635ec12-73ae-4ae3-8cef-498b49e64e04.png" style="max-width: 100%;"></code>
-<code><img alt="Visual Studio Code" title="VS Code" height="50" src="https://user-images.githubusercontent.com/13723025/198140669-57adcb56-3d34-4b46-af2d-4385f5ad7acb.png" style="max-width: 100%;"></code>
-<code><img alt="GitHub" title="GitHub" height="50" src="https://user-images.githubusercontent.com/13723025/198140705-3e9206f2-b333-47b9-af34-6b34aa5563c9.png" style="max-width: 100%;"></code>
-<code><img alt="Docker" title="Docker" height="48" src="https://user-images.githubusercontent.com/13723025/198140763-d945b29d-7d5e-47ae-a13e-8e40689b968e.png" style="max-width: 100%;"></code>
-<code><img alt="Kubernetes" title="Kubernetes" height="48" src="https://user-images.githubusercontent.com/13723025/198140792-e97a48a3-99e4-4c13-9aec-449bf1fbdb7c.png" style="max-width: 100%;"></code>
+<code><img alt="Visual Studio Code" title="VS Code" height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" style="max-width: 100%;"></code>
+<code><img alt="GitHub" title="GitHub" height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" style="max-width: 100%;"></code>
+<code><img alt="Docker" title="Docker" height="48" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" style="max-width: 100%;"></code>
+<code><img alt="Kubernetes" title="Kubernetes" height="48" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" style="max-width: 100%;"></code>
+<code><img alt="Argo CD" title="Argo CD" height="48" src="https://avatars.githubusercontent.com/u/30269780?s=48&v=4" style="max-width: 100%;"></code>
+<code><img alt="Azure" title="Azure" height="48" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" style="max-width: 100%;"></code>
+<code><img alt="RabbitMQ" title="RabbitMQ" height="48" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" style="max-width: 100%;"></code>
 </p>
 
 <!---
